@@ -1,5 +1,5 @@
 {
-    "name": "amarcp/zk-attend",
+    "name": "amarcp/zklib",
     "description": "PHP Library for ZK Biometric Attendance",
     "keywords": ["ZKTeco", "Biometric", "Atendance"],
     "type": "library",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "KRinn\\ZKattend\\": "zklib"
+            "Amar\\ZKattend\\": "src"
         }
     },
     "minimum-stability": "dev"
