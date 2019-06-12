@@ -1,5 +1,5 @@
 <?php    
-namespace KRinn\ZKattend;
+namespace Amar\ZKattend;
     class ZKLib {
         public $ip;
         public $port;

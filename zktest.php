@@ -5,7 +5,7 @@
     
     <body>
 <?php
-    use KRinn\ZKattend\ZKLib;
+    use Amar\ZKattend\ZKLib;
     require_once "vendor/autoload.php"; 
    
     $zk = new ZKLib("192.168.2.2", 4370);
