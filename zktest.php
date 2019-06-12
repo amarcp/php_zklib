@@ -5,8 +5,9 @@
     
     <body>
 <?php
-    include("zklib/zklib.php");
-    
+    use KRinn\ZKattend\ZKLib;
+    require_once "vendor/autoload.php"; 
+   
     $zk = new ZKLib("192.168.2.2", 4370);
     
     $ret = $zk->connect();
