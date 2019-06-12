@@ -1,5 +1,5 @@
 {
-    "name": "amarcp/zklib",
+    "name": "amarnet/zklib",
     "description": "PHP Library for ZK Biometric Attendance",
     "keywords": ["ZKTeco", "Biometric", "Atendance"],
     "type": "library",
